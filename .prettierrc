@@ -1,0 +1,18 @@
+{
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "useTabs": false,
+    "trailingComma": "all",
+    "printWidth": 120,
+    "overrides": [
+      {
+        "files": "*.blade.php",
+        "options": {
+          "parser": "php",
+          "singleQuote": false
+        }
+      }
+    ]
+  }
+  
